@@ -71,6 +71,7 @@
         "../src/rules/curlyRule.ts",
         "../src/rules/eoflineRule.ts",
         "../src/rules/forinRule.ts",
+        "../src/rules/globalBanRule.ts",
         "../src/rules/indentRule.ts",
         "../src/rules/interfaceNameRule.ts",
         "../src/rules/jsdocFormatRule.ts",
